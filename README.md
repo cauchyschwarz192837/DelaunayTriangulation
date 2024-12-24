@@ -1,3 +1,5 @@
+# Delaunay Triangulation Implementation
+
 Project for CS 290: Computational Geometry. This project implements components of a point location data structure and randomized incremental algorithm for computing Delaunay triangulations.
 
 ### Naive Delaunay
